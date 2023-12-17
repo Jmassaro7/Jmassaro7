@@ -18,7 +18,7 @@ In addition to my technical abilities, I bring strengths in communication, creat
 
 ## Featured Projects
 
-**[Companion Bot](https://github.com/jmassaro/companion-bot)**
+**[Companion Bot](https://github.com/Jmassaro7/CompanionBot)**
 - Collaborated on design and development of a social robot using Raspberry Pi, Arduino, Python, and various hardware components and APIs 
 - Programmed functionality for speech interactions, emotion detection, expressive emotes, terrain navigation, and edge avoidance
 
