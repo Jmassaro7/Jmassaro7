@@ -3,9 +3,9 @@
 # Jakob Massaro
 
 ## About Me
-I am a recent computer science graduate from the University of Michigan-Flint. I have a strong foundation in software development and programming that I am eager to apply in a full-time software engineering role.
+I am an appliction developer for GECS and a recent computer science graduate from the University of Michigan-Flint. I have a strong foundation in software development and programming that I am eager to apply in a dynamic production environment.
 
-Throughout my coursework and internship experiences, I have gained skills in:
+Throughout my coursework and industry experiences, I have gained skills in:
 - Programming languages like C#, Java, Node.js, C++, and Python
 - Building full stack applications 
 - SQL and database design
@@ -26,7 +26,7 @@ In addition to my technical abilities, I bring strengths in communication, creat
 **Languages:** C#, Java, Node.js, C++, Python, SQL  
 **Web Development:** HTML, Full Stack Development, APIs  
 **Concepts:** Object Oriented Programming, Data Structures, Algorithms   
-**Tools/Methodologies:** Git, Testing, Agile/Scrum
+**Tools/Methodologies:** GitHub, Testing, Agile
 
 ## Other
 When I'm not coding, I enjoy music writing, hiking, traveling, and meeting new people!
